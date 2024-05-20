@@ -2,7 +2,7 @@
 
  Overview
 
-Ren Connect is an online registration react native application designed to facilitate the registration process for various events taking place in college. This Android app provides an easy and convenient way for students to register for the events they are interested in. It aims to streamline the registration process and reduce the workload of teachers and organizers by automating the manual registration process.
+Ren Connect is an online registration react native application designed to facilitate the registration process for various events taking place in college. This Android app provides an easy and convenient way for students to register for the events they are interested in. It aims to streamline the registration process and reduce the workload of teachers and organizers by automating the manual registration process. 
 
  Features
 

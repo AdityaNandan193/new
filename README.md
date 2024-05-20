@@ -27,15 +27,19 @@ The following technologies are used in the development of Ren Connect:
  Roles and Responsibilities
 
  Aarushi Agarwal
+ 
 Aarushi Agarwal was responsible for the complete frontend development of the project. This includes designing the UI using Figma and technically implementing it with React Native. She created all the client-side UI components, starting from the login page to the internal frontend workings of the app.
 
  Aditya Agarwal
+ 
 Aditya Agarwal was also involved in the UI design and research part. He closely assisted Aarushi Agarwal in designing the UI and the frontend components of the app. Together, Aarushi and Aditya worked on creating a cohesive and user-friendly frontend for the application.
 
  Aditya Nandan
+ 
 Aditya Nandan handled the backend development of the application. His responsibilities included researching and implementing the registration process, database handling, and the slot counter functionality. Aditya used Firebase for managing the backend services, ensuring real-time data synchronization and efficient data management.
 
 Abhishek Joshi
+
 Abhishek Joshi also contributed to the backend development, focusing primarily on the login and signup functionalities. He played a crucial role in database management and collaborated closely with Aditya Nandan to implement the app's core logic and backend features. Abhishek utilized Firebase for authentication and real-time database management, ensuring secure and efficient user management.
 
 There is one issue in this app that we scan it from the expo then it gives a cache problem which solved by a command line
